@@ -1,1 +1,1 @@
-# YazilimGelistiriciYetistirmeKamp_.Net_Angular
+# Yazılım Geliştirici Yetiştirme Kampı ( c# - .Net - Angular )
