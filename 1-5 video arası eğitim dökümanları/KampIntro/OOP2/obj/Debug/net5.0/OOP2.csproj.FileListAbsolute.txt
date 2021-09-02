@@ -1,0 +1,16 @@
+C:\Users\ridva\source\repos\KampIntro\OOP2\obj\Debug\net5.0\OOP2.csprojAssemblyReference.cache
+C:\Users\ridva\source\repos\KampIntro\OOP2\obj\Debug\net5.0\OOP2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ridva\source\repos\KampIntro\OOP2\obj\Debug\net5.0\OOP2.AssemblyInfoInputs.cache
+C:\Users\ridva\source\repos\KampIntro\OOP2\obj\Debug\net5.0\OOP2.AssemblyInfo.cs
+C:\Users\ridva\source\repos\KampIntro\OOP2\obj\Debug\net5.0\OOP2.csproj.CoreCompileInputs.cache
+C:\Users\ridva\source\repos\KampIntro\OOP2\bin\Debug\net5.0\OOP2.exe
+C:\Users\ridva\source\repos\KampIntro\OOP2\bin\Debug\net5.0\OOP2.deps.json
+C:\Users\ridva\source\repos\KampIntro\OOP2\bin\Debug\net5.0\OOP2.runtimeconfig.json
+C:\Users\ridva\source\repos\KampIntro\OOP2\bin\Debug\net5.0\OOP2.runtimeconfig.dev.json
+C:\Users\ridva\source\repos\KampIntro\OOP2\bin\Debug\net5.0\OOP2.dll
+C:\Users\ridva\source\repos\KampIntro\OOP2\bin\Debug\net5.0\ref\OOP2.dll
+C:\Users\ridva\source\repos\KampIntro\OOP2\bin\Debug\net5.0\OOP2.pdb
+C:\Users\ridva\source\repos\KampIntro\OOP2\obj\Debug\net5.0\OOP2.dll
+C:\Users\ridva\source\repos\KampIntro\OOP2\obj\Debug\net5.0\ref\OOP2.dll
+C:\Users\ridva\source\repos\KampIntro\OOP2\obj\Debug\net5.0\OOP2.pdb
+C:\Users\ridva\source\repos\KampIntro\OOP2\obj\Debug\net5.0\OOP2.genruntimeconfig.cache

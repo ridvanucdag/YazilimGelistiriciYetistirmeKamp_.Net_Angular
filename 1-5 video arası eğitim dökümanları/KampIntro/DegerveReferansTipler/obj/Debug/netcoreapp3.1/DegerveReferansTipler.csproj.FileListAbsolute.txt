@@ -1,0 +1,13 @@
+C:\Users\ridva\source\repos\KampIntro\DegerveReferansTipler\bin\Debug\netcoreapp3.1\DegerveReferansTipler.exe
+C:\Users\ridva\source\repos\KampIntro\DegerveReferansTipler\bin\Debug\netcoreapp3.1\DegerveReferansTipler.deps.json
+C:\Users\ridva\source\repos\KampIntro\DegerveReferansTipler\bin\Debug\netcoreapp3.1\DegerveReferansTipler.runtimeconfig.json
+C:\Users\ridva\source\repos\KampIntro\DegerveReferansTipler\bin\Debug\netcoreapp3.1\DegerveReferansTipler.runtimeconfig.dev.json
+C:\Users\ridva\source\repos\KampIntro\DegerveReferansTipler\bin\Debug\netcoreapp3.1\DegerveReferansTipler.dll
+C:\Users\ridva\source\repos\KampIntro\DegerveReferansTipler\bin\Debug\netcoreapp3.1\DegerveReferansTipler.pdb
+C:\Users\ridva\source\repos\KampIntro\DegerveReferansTipler\obj\Debug\netcoreapp3.1\DegerveReferansTipler.csprojAssemblyReference.cache
+C:\Users\ridva\source\repos\KampIntro\DegerveReferansTipler\obj\Debug\netcoreapp3.1\DegerveReferansTipler.AssemblyInfoInputs.cache
+C:\Users\ridva\source\repos\KampIntro\DegerveReferansTipler\obj\Debug\netcoreapp3.1\DegerveReferansTipler.AssemblyInfo.cs
+C:\Users\ridva\source\repos\KampIntro\DegerveReferansTipler\obj\Debug\netcoreapp3.1\DegerveReferansTipler.csproj.CoreCompileInputs.cache
+C:\Users\ridva\source\repos\KampIntro\DegerveReferansTipler\obj\Debug\netcoreapp3.1\DegerveReferansTipler.dll
+C:\Users\ridva\source\repos\KampIntro\DegerveReferansTipler\obj\Debug\netcoreapp3.1\DegerveReferansTipler.pdb
+C:\Users\ridva\source\repos\KampIntro\DegerveReferansTipler\obj\Debug\netcoreapp3.1\DegerveReferansTipler.genruntimeconfig.cache
