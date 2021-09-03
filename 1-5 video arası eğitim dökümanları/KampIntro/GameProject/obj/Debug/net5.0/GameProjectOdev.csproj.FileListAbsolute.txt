@@ -1,0 +1,15 @@
+C:\Users\ridva\source\repos\KampIntro\GameProject\bin\Debug\net5.0\GameProjectOdev.exe
+C:\Users\ridva\source\repos\KampIntro\GameProject\bin\Debug\net5.0\GameProjectOdev.deps.json
+C:\Users\ridva\source\repos\KampIntro\GameProject\bin\Debug\net5.0\GameProjectOdev.runtimeconfig.json
+C:\Users\ridva\source\repos\KampIntro\GameProject\bin\Debug\net5.0\GameProjectOdev.runtimeconfig.dev.json
+C:\Users\ridva\source\repos\KampIntro\GameProject\bin\Debug\net5.0\GameProjectOdev.dll
+C:\Users\ridva\source\repos\KampIntro\GameProject\bin\Debug\net5.0\ref\GameProjectOdev.dll
+C:\Users\ridva\source\repos\KampIntro\GameProject\bin\Debug\net5.0\GameProjectOdev.pdb
+C:\Users\ridva\source\repos\KampIntro\GameProject\obj\Debug\net5.0\GameProjectOdev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ridva\source\repos\KampIntro\GameProject\obj\Debug\net5.0\GameProjectOdev.AssemblyInfoInputs.cache
+C:\Users\ridva\source\repos\KampIntro\GameProject\obj\Debug\net5.0\GameProjectOdev.AssemblyInfo.cs
+C:\Users\ridva\source\repos\KampIntro\GameProject\obj\Debug\net5.0\GameProjectOdev.csproj.CoreCompileInputs.cache
+C:\Users\ridva\source\repos\KampIntro\GameProject\obj\Debug\net5.0\GameProjectOdev.dll
+C:\Users\ridva\source\repos\KampIntro\GameProject\obj\Debug\net5.0\ref\GameProjectOdev.dll
+C:\Users\ridva\source\repos\KampIntro\GameProject\obj\Debug\net5.0\GameProjectOdev.pdb
+C:\Users\ridva\source\repos\KampIntro\GameProject\obj\Debug\net5.0\GameProjectOdev.genruntimeconfig.cache
